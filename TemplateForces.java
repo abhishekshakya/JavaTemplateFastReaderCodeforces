@@ -16,7 +16,7 @@
            out.flush();
     }
 
-    static void solve(){
+    static void solve() throws java.lang.Exception{
         out.println("GG");
     }
   
